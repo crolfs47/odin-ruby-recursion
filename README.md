@@ -9,9 +9,9 @@ Fibonacci sequence and merge sort.
  - Git/Github
 
 ## What I learned:
- - 
+ - Better understanding of recursion
  
 ## Still can improve:
- - 
+ - I needed help coming up with both of these functions, potentially revisit again later
 
 Assignment - https://www.theodinproject.com/lessons/ruby-recursion
